@@ -14,5 +14,7 @@ public class HelloJava {
     }
     public void test(){
         int i=10;
+        i+=i;
+        System.out.println(i);
     }
 }
