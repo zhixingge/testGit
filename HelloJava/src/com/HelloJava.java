@@ -12,4 +12,7 @@ public class HelloJava {
         System.out.println("Hello java project for git");
 
     }
+    public void test(){
+        int i=10;
+    }
 }
